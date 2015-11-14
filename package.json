@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Nodevember Challenge Node.js & Socket.io app",
   "author": {
-    "name": "YOUR_INFO"
+    "name": "Sam Weber"
   },
   "dependencies": {
     "express": "^4.10.2",
